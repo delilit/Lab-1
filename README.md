@@ -44,6 +44,8 @@
 - Запустить инструмент Jupyter Notebook и создать файл с именем HelloWorld.
 - Открыть созданный файл с именем HelloWorld, написать в него команду print() с характерным содержанием и запустить выполнение, нажав Run.
 
+- ![image](https://github.com/user-attachments/assets/b7a5304f-c628-4980-97c6-0c05b0274b13)
+
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
 Ход работы:
@@ -53,8 +55,6 @@
 - Создать 3D проект.
 - Добавить пустой GameObject.
 - Написать скрипт компонента, который будет выводить в консоль "Hello World!".
-
-![image](https://github.com/user-attachments/assets/b7a5304f-c628-4980-97c6-0c05b0274b13)
 
 
 ```C#
